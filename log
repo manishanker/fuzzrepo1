@@ -1,0 +1,6 @@
+[01:51:32] info: beginning fuzz - method: io, config from: [fuzz1], out: [:0]
+[01:51:32] attempting fuzz - 1 (len: 9).
+myscript
+[01:51:32] attempting fuzz - 2 (len: 9).
+myscript
+[01:51:32] completed fuzzing.
